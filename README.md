@@ -1,6 +1,6 @@
 # Deep Learning Wide & Deep Regression Model - Kaggle Competition
 
-> **Note:** This competition was completed as part of the coursework for Deep Learning (CSE641) at IIIT Delhi, taught by Dr. Vinayak Abrol in the Winter 2025 semester.
+> **Note:** This competition was a part of the coursework for Deep Learning (CSE641) at IIIT Delhi, taught by Dr. Vinayak Abrol in the Winter 2025 semester.
 
 ## Competition Results
 - **Rank**: 4th out of 74 participants
