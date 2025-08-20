@@ -15,7 +15,8 @@ This project implements a sophisticated deep learning regression model using PyT
 
 ## Model Architecture
 
-![Model Architecture](Architecture.png)
+![Model Architecture](Architecture.png?updated=1)
+
 
 The model employs a **Wide & Deep with Attention** architecture that combines:
 
